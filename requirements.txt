@@ -1,0 +1,3 @@
+gunicorn
+Django==2.2
+whitenoise
